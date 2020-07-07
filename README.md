@@ -1,5 +1,8 @@
 # react-native-init-func
 
+[![license](https://img.shields.io/github/license/brodybits/react-native-init-func?style=flat-square)](./LICENSE.md)
+[![npm](https://img.shields.io/npm/v/react-native-init-func?style=flat-square)](https://www.npmjs.com/package/react-native-init-func)
+
 programmatic React Native initialization function from the CLI
 
 exports the flexible `init` command function from `@react-native-community/cli`
