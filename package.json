@@ -16,6 +16,11 @@
     "url": "https://github.com/brodybits/react-native-init-func/issues"
   },
   "homepage": "https://github.com/brodybits/react-native-init-func#readme",
+  "files": [
+    "LICENSE.md",
+    "README.md",
+    "index.js"
+  ],
   "// dependency notes": [
     "At this point, exact @react-native-community/cli version is needed",
     "due to use of an internal init command function.",
