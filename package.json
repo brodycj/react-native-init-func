@@ -1,6 +1,6 @@
 {
   "name": "react-native-init-func",
-  "version": "0.0.5-dev",
+  "version": "0.0.5",
   "description": "programmatic React Native initialization function from the CLI",
   "main": "index.js",
   "scripts": {
