@@ -28,6 +28,6 @@
     "needed init command function at some point in the future."
   ],
   "dependencies": {
-    "@react-native-community/cli": "5.0.1"
+    "@react-native-community/cli": "10.2.5"
   }
 }
